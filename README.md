@@ -7,7 +7,7 @@
 
 ## 📁 Zawartość repozytorium
 
-- `app.zip` – skompresowany folder zawierający pełną aplikację: kod źródłowy modelu ML, dane, skrypty i pliki pomocnicze.  
+- `app.zip` – skompresowany folder zawierający pełną aplikację: kod źródłowy, modele ML, dane.  
   Aby uruchomić projekt lokalnie, pobierz i rozpakuj ten plik.
 
 - `Praca dyplomowa 2025.pdf` – dokument opisujący cały proces tworzenia modelu, założeń teoretycznych oraz analizy wyników.
